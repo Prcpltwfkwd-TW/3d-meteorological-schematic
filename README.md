@@ -1,4 +1,4 @@
-# schematic-3d
+# 3d-meteorlogical-schematic
 
 This repository demonstrates how to draw 3-dimensional schematic with matplotlib Axes3D and cartopy.
 
